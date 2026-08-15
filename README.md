@@ -52,7 +52,6 @@ spec:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL%20MariaDB-003545?style=flat-square&logo=mysql&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-333333?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20GitHub-F05032?style=flat-square&logo=git&logoColor=white)
 
