@@ -3,7 +3,7 @@
   <img src="./assets/banner.svg" width="100%" alt="Gagan Raj Shaw — DevOps | Linux Systems | Cloud Infra | Networking &amp; Security"/>
 
 <!-- Accessible fallback text included in alt attribute above -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img 
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=%E2%96%B6+Hardened+Linux+%26+Rootless+Podman+Containers;%E2%96%B6+Proxmox+VE+Virtualization+%26+OPNsense+Firewall;%E2%96%B6+Zero-Trust+Mesh+Networks+(Tailscale+%26+ACME+DNS-01);%E2%96%B6+Java+Spring+Boot+REST+APIs+%26+NGINX+Reverse+Proxy" 
     alt="Core competencies: Hardened Linux and Rootless Podman Containers; Proxmox VE Virtualization and OPNsense Firewall; Zero-Trust Mesh Networks with Tailscale and ACME DNS-01; Java Spring Boot REST APIs and NGINX Reverse Proxy" 
@@ -111,10 +111,10 @@ spec:
 
 | Metric | Detail |
 | :--- | :--- |
-| **Homelab Environment** | Bare-metal Proxmox VE hypervisor node |
-| **Containers Managed** | Rootless Podman & isolated LXC microservices |
-| **SSL/TLS Certificates** | Automated via ACME DNS-01 & Cloudflare API |
-| **Mesh VPN Network** | Private Tailscale Tailnet with ACL access rules |
+| **Infrastructure Architecture** | Bare-metal Proxmox VE hypervisor node with isolated VLANs |
+| **Container Workloads** | 10+ isolated LXC microservices & rootless Podman containers |
+| **SSL/TLS Certificates** | 100% automated issuance via ACME DNS-01 & Cloudflare API |
+| **Zero-Trust Network** | Encrypted Tailscale mesh network restricted to authorized peers |
 
 <br/>
 
