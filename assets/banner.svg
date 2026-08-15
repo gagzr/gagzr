@@ -13,5 +13,5 @@
   <rect width="900" height="220" rx="12" fill="url(#bg)"/>
   <rect x="0" y="210" width="900" height="10" rx="5" fill="url(#accent)"/>
   <text x="450" y="95" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="40" font-weight="700" fill="#E6EDF3">GAGAN RAJ SHAW</text>
-  <text x="450" y="140" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="18" fill="#00FFCC">Backend Software Engineer | DevOps &amp; Cloud Infrastructure</text>
+  <text x="450" y="140" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="18" fill="#00FFCC">Breaking, Developing &amp; Building Whatever I See</text>
 </svg>

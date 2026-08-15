@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" width="100%" alt="Gagan Raj Shaw — Backend Software Engineer &amp; DevOps"/>
+  <img src="./assets/banner.svg" width="100%" alt="Gagan Raj Shaw — Breaking, Developing &amp; Building Whatever I See"/>
 
 <!-- Accessible fallback text included in alt attribute above -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%E2%96%B6+High-Throughput+Java+Spring+Boot+APIs+%26+Microservices;%E2%96%B6+Hardened+Linux+Systems+%26+Rootless+Podman+Containers;%E2%96%B6+Proxmox+VE+Virtualization+%26+OPNsense+Firewalls;%E2%96%B6+Zero-Trust+Mesh+Networks+(Tailscale+%26+ACME+DNS-01)" 
-    alt="Core competencies: High-Throughput Java Spring Boot APIs & Microservices; Hardened Linux Systems & Rootless Podman Containers; Proxmox VE Virtualization & OPNsense Firewalls; Zero-Trust Mesh Networks with Tailscale & ACME DNS-01" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%E2%96%B6+Breaking%2C+Developing+%26+Building+Whatever+I+See;%E2%96%B6+High-Throughput+Java+Spring+Boot+APIs+%26+Microservices;%E2%96%B6+Hardened+Linux+Systems+%26+Rootless+Podman+Containers;%E2%96%B6+Proxmox+VE+Virtualization+%26+Zero-Trust+Networks" 
+    alt="Tagline: Breaking, Developing & Building Whatever I See | Core competencies: High-Throughput Java Spring Boot APIs & Microservices; Hardened Linux Systems & Rootless Podman Containers; Proxmox VE Virtualization & Zero-Trust Networks" 
   />
 </a>
 
@@ -32,6 +32,7 @@ metadata:
   alias: gagzr
   status: "ONLINE / READY_FOR_PRODUCTION"
 spec:
+  motto: "Breaking, developing and building whatever I see."
   education:
     degree: "B.Tech in Computer Science and Engineering"
     institution: "Asansol Engineering College"
@@ -40,6 +41,7 @@ spec:
     - "Backend Systems & REST API Engineering"
     - "DevOps, SRE & Cloud Infrastructure"
   core_philosophy:
+    - "Breaking, developing & building whatever I see — curious by default."
     - "Clean, resilient backend architecture with clean separation of concerns."
     - "Zero-Trust security by default, least-privilege everywhere."
     - "Rootless containerization and immutable infrastructure."
