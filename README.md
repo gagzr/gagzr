@@ -15,7 +15,7 @@
 ![Location](https://img.shields.io/badge/West%20Bengal%2C%20India-00FFCC?style=for-the-badge)
 ![Education](https://img.shields.io/badge/B.Tech%20CSE%202023--2027-FF007F?style=for-the-badge)
 
-### Seeking Summer 2026 Backend Engineering & DevOps / SRE Internships
+### Seeking Backend Engineering & DevOps / SRE Internships
 
 </div>
 
