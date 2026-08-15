@@ -97,7 +97,7 @@ spec:
 #### ⚡ SkyVault — Portable Edge Cloud Storage
 - **Raspberry Pi Edge Device** — Portable offline cloud storage with mDNS for zero-configuration local discovery.
 - **Java Spring Boot REST API** — High-throughput file upload, link generation, and zero-dependency media streaming.
-- **📜 Published Research** — [*"SkyVault – A Comprehensive Cloud Storage Solution for Raspberry Pi 5"*](#) at **TSMISDG-2024 International Conference**. *(Replace `#` with actual paper link)*
+- **📜 Published Research** — [*"SkyVault – A Comprehensive Cloud Storage Solution for Raspberry Pi 5"*] at **TSMISDG-2024 International Conference**. 
 
 #### 🤖 [youtube-studio-uploader](https://github.com/gagzr/youtube-studio-uploader)
 - **Headless Playwright Pipeline** — Automated metadata injection and upload scheduling via full browser automation, reducing dependency on rate-limited official APIs for bulk operations.
