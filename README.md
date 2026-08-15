@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=GAGAN%20RAJ%20SHAW&fontSize=42&fontAlignY=38&desc=DevOps%20%7C%20Linux%20Systems%20%7C%20Cloud%20Infra%20%7C%20Networking%20%26%20Security&descAlignY=62&descAlign=50&theme=tokyonight" width="100%" alt="Gagan Raj Shaw - DevOps and Linux Systems Engineer"/>
+  <img src="./assets/banner.svg" width="100%" alt="Gagan Raj Shaw — DevOps | Linux Systems | Cloud Infra | Networking &amp; Security"/>
 
 <!-- Accessible fallback text included in alt attribute above -->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&width=680&lines=%E2%96%B6+Hardened+Linux+%26+Rootless+Podman+Containers;%E2%96%B6+Proxmox+VE+Virtualization+%26+OPNsense+Firewall;%E2%96%B6+Zero-Trust+Mesh+Networks+(Tailscale+%26+ACME+DNS-01);%E2%96%B6+Java+Spring+Boot+REST+APIs+%26+NGINX+Reverse+Proxy" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=%E2%96%B6+Hardened+Linux+%26+Rootless+Podman+Containers;%E2%96%B6+Proxmox+VE+Virtualization+%26+OPNsense+Firewall;%E2%96%B6+Zero-Trust+Mesh+Networks+(Tailscale+%26+ACME+DNS-01);%E2%96%B6+Java+Spring+Boot+REST+APIs+%26+NGINX+Reverse+Proxy" 
     alt="Core competencies: Hardened Linux and Rootless Podman Containers; Proxmox VE Virtualization and OPNsense Firewall; Zero-Trust Mesh Networks with Tailscale and ACME DNS-01; Java Spring Boot REST APIs and NGINX Reverse Proxy" 
   />
 </a>
@@ -13,7 +13,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagzr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=firefox&logoColor=black)](https://gagzr.dev)
 ![Location](https://img.shields.io/badge/West%20Bengal%2C%20India-00FFCC?style=for-the-badge)
 ![Education](https://img.shields.io/badge/B.Tech%20CSE%202023--2027-FF007F?style=for-the-badge)
 
@@ -122,9 +121,5 @@ spec:
 | Channel | Details |
 | :--- | :--- |
 | **LinkedIn** | [linkedin.com/in/gagzr](https://linkedin.com/in/gagzr) — Preferred contact method |
-| **Portfolio** | [gagzr.dev](https://gagzr.dev) — Full project documentation & architecture diagrams |
 | **Email** | Available upon request via LinkedIn DM |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=120&section=footer&theme=tokyonight" width="100%" alt="Footer wave decoration"/>
-</div>
