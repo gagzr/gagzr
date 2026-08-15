@@ -75,7 +75,7 @@ spec:
 ![TLS](https://img.shields.io/badge/SSL%2FTLS-00B4D8?style=flat-square)
 
 ---
-
+<!--
 ### Selected Projects & Research
 
 #### SkyVault — Portable Edge Cloud Storage System
@@ -97,7 +97,7 @@ spec:
 #### [youtube-studio-uploader](https://github.com/gagzr/youtube-studio-uploader)
 - Engineered a headless browser automation pipeline with Node.js and Playwright to automate video uploads directly through YouTube Studio.
 - Handles automated metadata injection (title, description, tags, custom thumbnails, visibility states) for unattended execution on Linux VPS environments.
-
+-->
 ---
 
 ### Infrastructure Telemetry
