@@ -109,8 +109,30 @@ spec:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gagzr&show_icons=true&theme=tokyonight&hide_border=false&border_color=00FFCC&bg_color=0D1117&title_color=00FFCC&icon_color=FF007F&text_color=E6EDF3)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gagzr&layout=compact&theme=tokyonight&hide_border=false&border_color=FF007F&bg_color=0D1117&title_color=FF007F&text_color=E6EDF3)
+| Metric | Detail |
+| :--- | :--- |
+| **Homelab Environment** | Bare-metal Proxmox VE hypervisor node |
+| **Containers Managed** | Rootless Podman & isolated LXC microservices |
+| **SSL/TLS Certificates** | Automated via ACME DNS-01 & Cloudflare API |
+| **Mesh VPN Network** | Private Tailscale Tailnet with ACL access rules |
+
+<br/>
+
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=gagzr&amp;theme=tokyonight&amp;border=00FFCC&amp;ring=FF007F&amp;fire=FF007F&amp;currStreakLabel=00FFCC&amp;sideLabels=E6EDF3&amp;dates=E6EDF3&amp;background=0D1117&amp;hide_border=false&amp;mode=weekly"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=gagzr&amp;theme=tokyonight&amp;border=00FFCC&amp;ring=FF007F&amp;fire=FF007F&amp;currStreakLabel=00FFCC&amp;sideLabels=E6EDF3&amp;dates=E6EDF3&amp;background=FFFFFF&amp;hide_border=false&amp;mode=weekly"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=gagzr&amp;theme=tokyonight&amp;border=00FFCC&amp;ring=FF007F&amp;fire=FF007F&amp;currStreakLabel=00FFCC&amp;sideLabels=E6EDF3&amp;dates=E6EDF3&amp;background=0D1117&amp;hide_border=false&amp;mode=weekly"
+    alt="Gagan Raj Shaw's GitHub Contribution Streak"
+    width="65%"
+  />
+</picture>
 
 </div>
 
